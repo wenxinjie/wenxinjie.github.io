@@ -8,11 +8,18 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Dissatisfaction with the results of the campaign was universal, and
+penetrated all grades of society. The root of the evil was seen to lie
+in our serfdom, so the Tsar Alexander II.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'On her arrival in port, the ship was at once docked, and Clare sent on
+board the flag-ship Victory, where he was very fairly treated, as her
+commander did not understand that the man should be considered a felon
+until he was tried and convicted.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Brent was fortunate
+in finding an English captain, who picked up a crew of Englishmen and
+Americans, four men only besides the mate and cook. '      
 };
 
 function status(statusText) {
