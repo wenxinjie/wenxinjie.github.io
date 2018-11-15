@@ -10,9 +10,9 @@ const examples = {
   'example1':
       'The result of the Turkish War of 1877–78 was that we regained the mouths of the Danube, and obtained possession of Batoum and Kars',
   'example2':
-      'The spectators up to this time were, excepting in their observations, tolerably quiet.',
+      'The stewards vied with each other in buying all the lame, blind, and aged poultry brought off to the ship by the enterprising bum-boat men.',
   'example3':
-      'Brent was fortunate in finding an English captain, who picked up a crew of Englishmen and Americans, four men only besides the mate and cook.'      
+      'They ate upon deck, the visitors preferring to squat cross-legged upon the white floor and take their food in native fashion.'      
 };
 
 
