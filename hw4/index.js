@@ -8,19 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Dissatisfaction with the results of the campaign was universal, and
-penetrated all grades of society. The root of the evil was seen to lie
-in our serfdom, so the Tsar Alexander II.',
+      'The result of the Turkish War of 1877–78 was that we regained the mouths of the Danube, and obtained possession of Batoum and Kars',
   'example2':
-      'On her arrival in port, the ship was at once docked, and Clare sent on
-board the flag-ship Victory, where he was very fairly treated, as her
-commander did not understand that the man should be considered a felon
-until he was tried and convicted.',
+      'The spectators up to this time were, excepting in their observations, tolerably quiet.',
   'example3':
-      'Brent was fortunate
-in finding an English captain, who picked up a crew of Englishmen and
-Americans, four men only besides the mate and cook. '      
+      'Brent was fortunate in finding an English captain, who picked up a crew of Englishmen and Americans, four men only besides the mate and cook.'      
 };
+
 
 function status(statusText) {
   console.log(statusText);
