@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'The result of the Turkish War of 1877–78 was that we regained the mouths of the Danube, and obtained possession of Batoum and Kars',
   'example2':
-      'The stewards vied with each other in buying all the lame, blind, and aged poultry brought off to the ship by the enterprising bum-boat men.',
+      'It was quite amusing to hear Crushe speak of the crew, and the old Anglo-Indian thought he had never met a more humane, kind-hearted officer.',
   'example3':
       'They ate upon deck, the visitors preferring to squat cross-legged upon the white floor and take their food in native fashion.'      
 };
